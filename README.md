@@ -1,16 +1,37 @@
-## Hi there 👋
+ #Hey, I’m Manthan (MAKX)
 
-<!--
-**MAKX-Dev/MAKX-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech IT Student @ GHRCEMN | First-Year
+🚀 On a 4-year journey to crack off-campus SDE roles
+📈 Currently solving Striver’s A2Z DSA Sheet (logging daily progress)
 
-Here are some ideas to get you started:
+🔥 What I’m Doing Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 DSA in C++ → Striver A2Z + SDE Sheet
+
+📝 Maintaining an Error Book to convert mistakes into mastery
+
+🌐 Building a public portfolio (GitHub + X + LinkedIn)
+
+🎯 Goal: Consistency > Intensity (compounding daily effort)
+
+📊 My GitHub Focus
+
+🚀 Striver A2Z DSA Sheet Solutions
+
+⚡ Tracking progress with clean commits & README logs
+
+🌱 More repos coming soon (projects + learnings)
+
+🌟 Connect with Me
+
+🐦 X (Twitter) – https://x.com/Manthan_Khotele
+
+💼 LinkedIn - LInkedin.com/in/manthan-k-441671371
+
+📂 GitHub - https://github.com/MAKX-Dev
+
+✨ Quote I Live By
+
+“Consistency compounds faster than motivation.”
+
+
