@@ -26,7 +26,7 @@
 
 🐦 X (Twitter) – https://x.com/Manthan_Khotele
 
-💼 LinkedIn - LInkedin.com/in/manthan-k-441671371
+💼 LinkedIn - https://www.linkedin.com/in/manthan-k-441671371/
 
 📂 GitHub - https://github.com/MAKX-Dev
 
