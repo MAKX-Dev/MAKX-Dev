@@ -1,10 +1,9 @@
  #Hey, I’m Manthan (MAKX)
 
-💻 B.Tech IT Student @ GHRCEMN | First-Year
-🚀 On a 4-year journey to crack off-campus SDE roles
+💻 B.Tech IT Student @ GHRCEMN | First-Year | On a 4-year journey to crack off-campus SDE roles
 📈 Currently solving Striver’s A2Z DSA Sheet (logging daily progress)
 
-🔥 What I’m Doing Now
+   What I’m Doing Now
 
 📚 DSA in C++ → Striver A2Z + SDE Sheet
 
@@ -16,7 +15,7 @@
 
 📊 My GitHub Focus
 
-🚀 Striver A2Z DSA Sheet Solutions
+💫 Striver A2Z DSA Sheet Solutions
 
 ⚡ Tracking progress with clean commits & README logs
 
